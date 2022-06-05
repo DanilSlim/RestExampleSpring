@@ -1,0 +1,14 @@
+{
+
+	"name" : "Pitre",
+	"email" : "dastin@hofman.rt",
+	"phone" : "12345"
+
+}
+
+
+{
+    "typeName" : "David",
+    "typeNum" : "123"
+    
+}
